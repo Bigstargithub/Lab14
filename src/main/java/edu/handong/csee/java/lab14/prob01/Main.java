@@ -3,7 +3,7 @@ import java.util.Scanner; //get the Scanner class from the package java.util.
 import java.util.Random; // get the Random class from the package, java.util.
 
 /**
- * This is a public class, Main
+ * This is a public class, Main. </br>
  * This class will perform the main method.
  * @author Bigstar
  *

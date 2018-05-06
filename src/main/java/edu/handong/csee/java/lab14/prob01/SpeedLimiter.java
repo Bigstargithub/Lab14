@@ -1,7 +1,7 @@
 package edu.handong.csee.java.lab14.prob01; // the package, edu.handong.csee.java.lab14.prob01
 
 /**
- * This is a public class, SpeedLimiter.
+ * This is a public class, SpeedLimiter. </br>
  * This class will display the caution "Speed limit exceed!" when the present speed is larger than limit speed.
  * @author Bigstar
  *
@@ -22,7 +22,7 @@ public class SpeedLimiter
 	}
 	
 	/**
-	 * This is a public method, warnSpeedLimit.
+	 * This is a public method, warnSpeedLimit. </br>
 	 * This method will perform when the speed is larger than limit speed.
 	 */
 	public void warnSpeedLimit()
