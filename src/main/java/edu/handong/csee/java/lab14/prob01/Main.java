@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab14.prob01; // the package, edu.handong.csee.java.lab14.prob01
 import java.util.Scanner; //get the Scanner class from the package java.util.
-import java.util.Random; // get the Random from the package, java.util.
+import java.util.Random; // get the Random class from the package, java.util.
 
 /**
  * This is a public class, Main
